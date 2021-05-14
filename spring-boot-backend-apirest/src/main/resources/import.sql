@@ -1,0 +1,12 @@
+INSERT INTO clientes (nombre, apellido, email, telefono, fecha_nacimiento) VALUES('Luis', 'Guzmán', 'luis@gmail.com','961948547' , '1992-01-01');
+INSERT INTO clientes (nombre, apellido, email,telefono,  fecha_nacimiento) VALUES('Jose', 'Lopez', 'Jose@gmail.com', '961948547' ,'1992-01-02');
+INSERT INTO clientes (nombre, apellido, email, telefono, fecha_nacimiento) VALUES('Miguel', 'Manrique', 'Miguel@gmail.com','961948547' , '1992-01-03');
+INSERT INTO clientes (nombre, apellido, email, telefono, fecha_nacimiento) VALUES('Maria', 'Manrique', 'Maria@gmail.com','961948547' , '1992-01-03');
+INSERT INTO clientes (nombre, apellido, email,telefono,  fecha_nacimiento) VALUES('Erich', 'Gamma', 'Erich@gmail.com', '961948547' ,'1992-02-01');
+INSERT INTO clientes (nombre, apellido, email, telefono, fecha_nacimiento) VALUES('Richard', 'Lopez', 'Richard@gmail.com', '961948547' ,'1992-02-10');
+INSERT INTO clientes (nombre, apellido, email,telefono,  fecha_nacimiento) VALUES('Rafael', 'Lopez', 'Rafael@gmail.com','961948547' , '1992-02-18');
+INSERT INTO clientes (nombre, apellido, email,telefono,  fecha_nacimiento) VALUES('Jose', 'Manrique', 'Jose@gmail.com', '961948547' ,'1992-02-28');
+INSERT INTO clientes (nombre, apellido, email,telefono,  fecha_nacimiento) VALUES('Jose', 'Lopez', 'Jose@gmail.com','961948547' , '1992-03-03');
+INSERT INTO clientes (nombre, apellido, email, telefono, fecha_nacimiento) VALUES('Pepe', 'Manrique', 'Pepe@gmail.com', '961948547' ,'1992-03-04');
+INSERT INTO clientes (nombre, apellido, email,telefono,  fecha_nacimiento) VALUES('Miguel', 'Manrique', 'Miguel@gmail.com','961948547' , '1992-03-05');
+INSERT INTO clientes (nombre, apellido, email, telefono, fecha_nacimiento) VALUES('Mateo', 'Manrique', 'Mateo@gmail.com', '961948547' ,'1992-03-06');
